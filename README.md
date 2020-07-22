@@ -63,3 +63,4 @@ doit passphrase=geheim
 ```
 
 This will install python and the doit package (from [requirements.txt](requirements.txt) , decrypt the 'private' data and process it with the example scripts (that run upper/lowercase on it). 
+# compendium-drifting-apart-or-sticking-together
